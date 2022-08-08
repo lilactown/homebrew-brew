@@ -3,7 +3,7 @@ class Eql < Formula
   homepage ""
   license ""
   url "https://github.com/lilactown/eql-cli/archive/v0.0.1.zip"
-  sha256 "1c3d76acea2b871e329f076f100ab378e80f8430"
+  sha256 "3599d11c88a44e8fb41e8da61db53f62d4f5290f"
 
   version "0.0.1"
 
